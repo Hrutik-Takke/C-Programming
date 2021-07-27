@@ -4,7 +4,7 @@
 //  Function name : Maximum
 //  Input : Integer[], Integer
 //  Output : Integer
-//  Description : Accept N number from user and return maximum number of that number.
+//  Description : Accept N number from user and return maximum number of that array.
 //  Date : 27/07/2021
 //  Author : Hrutik Takke
 //
